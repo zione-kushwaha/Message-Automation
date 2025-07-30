@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Jeevan Kushwaha**
 - GitHub: [@zione-kushwaha](https://github.com/zione-kushwaha)
-- LinkedIn: [zione](https://linkedin.com/in/zione)
+- LinkedIn: [zi-one](https://linkedin.com/in/zione)
 
 ## 🙏 Acknowledgments
 
